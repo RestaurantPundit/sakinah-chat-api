@@ -1,3 +1,4 @@
-export default async function handler(request) {
-  return new Response("hello", { status: 200 });
+// api/hello.js
+export default function handler(req, res) {
+  res.status(200).send('hello');
 }
