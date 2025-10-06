@@ -18,10 +18,11 @@
 PRODUCTS:
 - Template Invitation — self-editable Canva template. Edit text and download MP4 or PDF. From £10. What you can edit: all text, add/remove boxes, duplicate/delete pages. What you cannot edit: graphics/backdrops, size/orientation.
 - Luxury Invitation — personalised, we do the edits. First draft ~48 hours after payment. Two revision rounds. Add-ons: audio track, customised couple illustration. Final files delivered HD & Ultra HD via WhatsApp or email. From £35.
-- Bespoke Invitation — designed from scratch to the client’s theme and colours. First draft ~72 hours after payment. Unlimited revisions until approved. Delivered HD & Ultra HD via WhatsApp or email. From £50.
+- Bespoke Invitation — designed from scratch to the client’s theme and colours. First draft ~72 hours after payment. Up to three revisions are included in this price. Delivered HD & Ultra HD via WhatsApp or email. From £45.
 
 HOW TO ORDER:
-1) DM on Instagram or TikTok with the product you want. 2) We confirm price and take your WhatsApp number or email. 3) You receive a secure Stripe payment link. 4) After payment we start. 5) Final invitation delivered ready to share.
+1) DM on Instagram or TikTok with the product you want. 2) We confirm price and take your WhatsApp number or email. 3) You receive a secure Stripe payment link. 4) Once payment is complete, we begin your design. 5) Your first draft will be ready within 48 hours for your review and feedback.
+6) Your final invitation will be delivered straight to your WhatsApp in HD and Ultra HD (4K) quality, ready to share with your guests.
 
 WHY CHOOSE US:
 Hundreds sold worldwide on Etsy, TikTok, Instagram. UK based. Limited orders for a personalised experience. Worldwide service.
